@@ -1,6 +1,6 @@
 # tugas3
 #1.a classmain arraylist bertipe stirng : https://github.com/abdianugarh/tugas3/blob/master/arrayliststring.java
-1.b classmain arraylist bertipe integer : https://github.com/abdianugarh/tugas3/blob/master/arraylistint.java
+#1.b classmain arraylist bertipe integer : https://github.com/abdianugarh/tugas3/blob/master/arraylistint.java
 1.c classmain arraylist bertipe float : https://github.com/abdianugarh/tugas3/blob/master/arraylistfloat.java
 1.d classmain arraylist bertipe double : https://github.com/abdianugarh/tugas3/blob/master/arraylistdouble.java
 1.e classmain arraylist bertipe object : https://github.com/abdianugarh/tugas3/blob/master/arraylistobject.java
