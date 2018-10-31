@@ -16,3 +16,7 @@
     classmain queue float : https://github.com/abdianugarh/tugas3/blob/master/classmainqueuefloat.java
 1.i class queue double : https://github.com/abdianugarh/tugas3/blob/master/classqueuedouble.java
     classmain queue double : https://github.com/abdianugarh/tugas3/blob/master/classmainqueuedouble.java
+1.j class stack generic : https://github.com/abdianugarh/tugas3/blob/master/classstackgeneric.java
+    classmain stack generic : https://github.com/abdianugarh/tugas3/blob/master/classmainstackgeneric.java
+1.k class queue generic : https://github.com/abdianugarh/tugas3/blob/master/classqueuegeneric.java
+    classmain queue generic : https://github.com/abdianugarh/tugas3/blob/master/classmainqueuegeneric.java
